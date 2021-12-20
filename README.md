@@ -1,7 +1,7 @@
 -I`m a 💎 Full Stack Developer
 - 👋 Hi, I’m @diegovgodoy, my skills are Java Spring Boot and MySql
 - 👀 I’m interested in  JS, React JS ,front end 
-- 🌱 I’m currently learning Data Analits and cloud Technologies.
+- 🌱 I’m currently learning Data Analitcs and cloud Technologies.
 - 💞️ I’m looking to collaborate on education
 - 📫 How to reach me dvargasgodoy@gmail.com
 
